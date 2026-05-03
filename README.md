@@ -9,7 +9,7 @@ Trường Đại học Tôn Đức Thắng — Khoa Công nghệ Thông tin
 |---|---|
 | Nguyễn Trần Nhật An | 523H0115 |
 | Chung Quang Vũ | 523H0196 |
-| Nguyễn Nhật Chiều | 522H0133 |
+| Nguyễn Nhật Chiêu | 522H0133 |
 
 ---
 
