@@ -147,4 +147,4 @@ PhoBERT-base-v2 (Encoder)
 
 ## 📄 License
 
-Dự án phục vụ mục đích học thuật — **Tôn Đức Thắng University, 2026**.
+Dự án phục vụ mục đích học thuật cuối kỳ — **Tôn Đức Thắng University, 2026**.
